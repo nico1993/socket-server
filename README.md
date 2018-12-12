@@ -2,7 +2,6 @@
 
 Reconstruir módulos de node
 ```
-
 npm install
 ```
 
